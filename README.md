@@ -23,15 +23,14 @@ How many pizzas are typically in an order? Do we have any bestsellers?
  - Order Size: Customers typically purchase an average of 2 pizzas per order.
  - Top Performers: The Chicken category drives the highest individual item revenues. The top three best-selling pizzas are:
 
-a. The Thai Chicken Pizza ($43,434)
-b. The Barbecue Chicken Pizza ($42,768)
-c. The California Chicken Pizza ($41,410)
+The Thai Chicken Pizza ($43,434),
+The Barbecue Chicken Pizza ($42,768),
+The California Chicken Pizza ($41,410),
 
-Size & Category Preferences: Large (L) is the most popular size, accounting for 36.4% of orders, closely followed by Medium (M) at 31.9%. The Classic category is the most frequently ordered type of pizza (29.0%), closely rivaled by Supreme and Veggie.
+ - Size & Category Preferences: Large (L) is the most popular size, accounting for 36.4% of orders, closely followed by Medium (M) at 31.9%. The Classic category is the most frequently ordered type of pizza (29.0%), closely rivaled by Supreme and Veggie.
 
-3. Revenue & Seasonality
+## 3. Revenue & Seasonality
 How much money did we make this year? Can we identify any seasonality in the sales?
 
-Annual Revenue: Total sales reached $817,860.
-
-Seasonal Trends: Sales peaked sharply in July ($72,558), followed by a steady, significant decline moving into the autumn, hitting an annual low point in October ($64,028) before recovering briefly in November.
+ - Annual Revenue: Total sales reached $817,860.
+ - Seasonal Trends: Sales peaked sharply in July ($72,558), followed by a steady, significant decline moving into the autumn, hitting an annual low point in October ($64,028) before recovering briefly in November.
