@@ -34,3 +34,17 @@ How much money did we make this year? Can we identify any seasonality in the sal
 
  - Annual Revenue: Total sales reached $817,860.
  - Seasonal Trends: Sales peaked sharply in July ($72,558), followed by a steady, significant decline moving into the autumn, hitting an annual low point in October ($64,028) before recovering briefly in November.
+
+# 💡 Strategic Recommendations
+## 🛒 Menu Optimization
+ - Address Underperformers: The Brie Carre Pizza recorded the lowest sales of the year. Consider reworking its ingredient profile, lowering its price point, or removing it from the menu entirely to reduce inventory waste on slow-moving ingredients.
+
+ - Capitalize on Chicken & Classic Varieties: Since Chicken pizzas generate the highest revenue and Classic pizzas drive the highest order volume, feature these prominently at the top of physical and digital menus.
+
+## 📈 Target Promotions & Marketing
+ - Mid-Week & Sunday Bundles: To boost the lower-volume days (Sunday through Tuesday), introduce "Family Meal Deals" or "Buy One, Get One" promotions that align with the average basket size of 2 pizzas.
+
+ - Fall Revival Campaigns: Launch targeted marketing campaigns or limited-time seasonal flavors in September and October to counteract the historical autumn sales slump.
+
+## ⏳ Staffing & Operations
+- Shift Scheduling: Optimize kitchen and delivery staffing to mirror the dual-peak demand windows (12 PM – 3 PM and 6 PM – 9 PM), particularly on Fridays and Saturdays, to ensure fast ticket times and high customer satisfaction.
