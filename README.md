@@ -1,4 +1,4 @@
-# # 🍕 Pizza Sales Performance Report (2015)
+## 🍕 Pizza Sales Performance Report (2015)
 
 # Executive Summary
 This report analyzes a comprehensive sales dataset from a pizza establishment over the course of 2015. The dataset tracks precise order timestamps, pizza types, sizes, quantities, pricing, and ingredients. The goal of this analysis is to identify operational peak hours, customer buying habits, seasonality, and product performance to optimize menu offerings and marketing strategies.
